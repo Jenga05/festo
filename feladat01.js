@@ -1,4 +1,4 @@
-function feladat01(szinek) {
+export function feladat01(szinek) {
     let number = szinek.length;
     let sum = 0;
     let top;
